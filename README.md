@@ -1,45 +1,57 @@
 # Hi, I'm Vipin Yadav 👋
 
-### Software QA Engineer | Manual Testing | API Testing | Automation Testing
+### Software QA Engineer | Automation Testing | Java | Selenium | REST Assured | Playwright
 
-I'm a Software QA Engineer with 5+ years of experience in software testing, specializing in Manual Testing and API Testing.
+Software QA Engineer with 5+ years of experience in Software Quality Assurance, specializing in Manual Testing, Automation Testing, Web Application Testing and API Testing.
 
-I enjoy understanding application workflows, identifying defects, validating APIs, and ensuring software quality. I'm currently strengthening my skills in Java and REST Assured to expand into automation testing.
+Experienced in developing and maintaining automation test frameworks using Java and Selenium, along with API automation using REST Assured. Also familiar with Playwright and TypeScript for modern web application automation.
+
+Passionate about delivering reliable software through effective test strategies, automation and continuous quality improvement.
 
 ## 👨‍💻 About Me
 
-- 💼 5+ years of experience in Software Quality Assurance
-- 🔍 Experience in Manual Testing and Functional Testing
-- 🔗 Practising API Testing using Postman
-- ☕ Learning Java programming
-- 🚀 Exploring API Automation using REST Assured
-- 📚 Continuously learning and improving testing skills
+- 💼 5+ years of experience in Software Quality Assurance.
+- 🔍 Strong understanding of Manual Testing and Functional Testing.
+- ☕ Java programming for test automation.
+- 🌐 Web UI Automation using Selenium WebDriver.
+- 🏗️ Developing and maintaining Selenium automation frameworks.
+- 🔗 API Testing and API Automation using REST Assured.
+- 🎭 Working knowledge of Playwright with TypeScript.
+- 📊 Test execution, defect tracking and reporting.
+- 🚀 Focused on improving automation efficiency and software quality.
 
 ## 🛠️ Technical Skills
 
-| Category | Skills |
+| Category | Technologies & Skills |
 |---|---|
-| Testing | Manual Testing, Functional Testing, Regression Testing |
-| API Testing | Postman, REST API Testing |
-| Programming | Java (Basic) |
-| Automation | REST Assured (Learning) |
-| API Concepts | HTTP Methods, Status Codes, JSON, Authentication |
-| Documentation | Test Cases, Test Scenarios, Bug Reports |
+| Programming | Java, TypeScript (Working Knowledge) |
+| UI Automation | Selenium WebDriver, Playwright |
+| Automation Frameworks | TestNG, Page Object Model |
+| API Automation | REST Assured |
+| API Tools | Postman |
+| Build Management | Maven |
+| Testing | Manual, Functional, Regression, Smoke Testing |
+| API Concepts | REST APIs, JSON, HTTP Methods, Authentication |
+| Version Control | Git, GitHub |
+| Reporting | Extent Reports |
 
-## 📂 My QA Projects
+## 📂 QA Automation Projects
 
-Projects and practical exercises will be added here as I build my testing portfolio.
-
+- Selenium Java Automation Framework
+- API Automation Framework using REST Assured
+- Playwright with TypeScript Automation Examples
+- Postman API Testing Collection
 - Manual Testing Portfolio
-- API Testing with Postman
-- REST Assured API Automation
 
-## 🎯 Current Learning Goals
+## 🎯 Areas of Expertise
 
-- Improving Java programming skills
-- Building API automation frameworks
-- Practising coding and SQL problems
-- Exploring test automation best practices
+- Automation Framework Development
+- Web Application Testing
+- REST API Automation
+- Test Case Design and Execution
+- Defect Identification and Reporting
+- Regression Testing
+- Software Quality Assurance
 
 ## 📫 Connect With Me
 
@@ -48,17 +60,3 @@ Projects and practical exercises will be added here as I build my testing portfo
 ---
 
 ⭐ Thanks for visiting my profile!
-<!--
-**vipin-yadavQA/vipin-yadavQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
